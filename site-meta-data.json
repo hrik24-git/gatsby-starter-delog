@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Hrithik",
+  "siteUrl": "https://hrithikpawar.netlify.com/",
+  "description": "Full Stack Developer and Machine Learning Practitioner",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Hi! I'm Hrithik Pawar",
+    "description": "I am a Bachelor's student at Shivaji University, Kolhapur pursuing a B.Tech degree in Computer Science and Technology. I have a passion for converting ideas into reality with the Machine Learning approach. I work with various Web Development frameworks from Python and Javascript family and introduce them with my Machine Learning abilities."
   }
 }
