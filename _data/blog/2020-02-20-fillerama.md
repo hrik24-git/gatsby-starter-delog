@@ -3,7 +3,7 @@ template: BlogPost
 path: /Deep-learning
 date: 2020-10-05
 title: Malaria Cell Identification
-thumbnail: /assets/output_9_1.png
+thumbnail: /assets/cover.jpg
 ---
 # Maleria Detection
 
